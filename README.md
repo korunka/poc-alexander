@@ -12,6 +12,7 @@ Technologie: [Angular2](https://github.com/angular/angular)
 ## Licence
 
 Powered by [Loterie Korunka](https://www.korunka.eu) &copy;2016.
+
 Code licensed under an [ISC License](https://github.com/korunka/obed-o-bot/blob/master/LICENSE).
 
 Made with :yellow_heart: in [Prague](https://mapy.cz/s/jfYj)
