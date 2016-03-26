@@ -9,6 +9,15 @@ Technologie: [Angular2](https://github.com/angular/angular)
 
 
 
+## Technické oblasti zpracované v tomto projektu
+
+  * Komponenty
+  * Model
+  * Routing
+  * Autentifikace
+
+
+
 ## Licence
 
 Powered by [Loterie Korunka](https://www.korunka.eu) &copy;2016.
