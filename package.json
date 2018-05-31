@@ -1,0 +1,11 @@
+{
+  "name": "poc-alexander",
+  "description": "Proof of Concept - Přihlášení klienta, vsazení tiketů, zobrazení tiketů",
+  "version": "0.0.2",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  }
+}
